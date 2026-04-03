@@ -1,1 +1,3 @@
-hola soy carlos chambi, este es el readme del TP0 de sintaxis.
+-Compilador seleccionado:  GCC 
+-Version del compilador:  GCC 15.2.1
+-Version de C en que el compilador compia:  202311
