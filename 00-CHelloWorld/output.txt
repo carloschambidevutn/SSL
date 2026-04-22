@@ -1,2 +1,0 @@
-Hello, world!. I am using std C23.
-202311
